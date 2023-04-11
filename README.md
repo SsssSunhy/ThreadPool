@@ -40,4 +40,3 @@ cd ThreadPool
 ./result
 ```
 
-# ThreadPool
